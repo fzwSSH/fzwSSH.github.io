@@ -1,6 +1,6 @@
 # Change baseurl before deploy
 baseurl = "https://fzwSSH.github.io"
-languageCode = "zh-cn"
+languageCode = "en-us"
 title = "fzw's Blog"
 
 # Theme i18n support
