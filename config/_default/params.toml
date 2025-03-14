@@ -5,8 +5,8 @@ rssFullContent = true
 favicon = "/favicon.png"
 
 [footer]
-since = 2020
-customText = ""
+since = 2025
+customText = "March"
 
 [dateFormat]
 published = "Jan 02, 2006"
